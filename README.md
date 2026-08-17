@@ -3,7 +3,16 @@
 GrowCalc is a transparent fertilizer-formulation calculator for greenhouse,
 hydroponic, and horticultural nutrient-solution workflows.
 
+## Copyright and source-use notice
+
+Copyright © 2026 Cole Newman / GrowCalc. All rights reserved.
+
+The source code in this repository is publicly viewable for transparency, beta testing, and development history. **No open-source license is granted.** Except as permitted by applicable law and GitHub's Terms of Service, no permission is granted to copy, redistribute, modify, sublicense, sell, or commercially use GrowCalc's source code or other original project materials without prior written permission from the copyright holder.
+
+Third-party references, fertilizer analyses, scientific publications, product names, trademarks, and other third-party materials remain the property of their respective owners and are subject to their own terms.
+
 ## V0.5 release features
+- Guided Grow with source-backed crop starting profiles
 - Total-N mode
 - Advanced nitrate-N / ammonium-N targeting
 - Source-water nutrient correction
