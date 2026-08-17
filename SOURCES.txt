@@ -1,0 +1,36 @@
+GrowCalc V0.5 scientific references
+
+University of Missouri Extension (2026)
+Hydroponic Nutrient Solutions
+https://extension.missouri.edu/publications/g6984
+
+Penn State Extension (2026)
+Hydroponics Systems: Using the Two Basic Equations to Calculate a Nutrient Solution Recipe
+https://extension.psu.edu/hydroponics-systems-using-the-two-basic-equations-to-calculate-a-nutrient-solution-recipe/
+
+Penn State Extension (2024)
+Hydroponics Systems: Nutrient Solution Programs and Recipes
+https://extension.psu.edu/hydroponics-systems-nutrient-solution-programs-and-recipes/
+
+Virginia Cooperative Extension
+The Basics of Fertilizer Calculations for Greenhouse Crops
+https://pubs.ext.vt.edu/430/430-100/430-100.html
+
+Yara
+YaraLiva Calcinit guaranteed analysis
+https://www.yara.us/contentassets/d5795b868531401e9ce37f0adb6b54b2/yaraliva-calcinit-1200kg-glo_new.pdf
+15.5% total N = 14.4% nitrate-N + 1.1% ammoniacal-N; 18.9% Ca.
+
+Haifa Group
+Multi-K potassium nitrate product information
+https://www.haifa-group.com/multi-k-potassium-nitrate-fertilizers-formula
+Potassium nitrate nitrogen is nitrate-N.
+
+Oklahoma State University Extension
+Oklahoma Soil Fertility Handbook
+https://extension.okstate.edu/fact-sheets/oklahoma-soil-fertility-handbook-full
+Ammonium nitrate is approximately half nitrate-N and half ammoniacal-N.
+
+Deployment:
+Streamlit Community Cloud documentation
+https://docs.streamlit.io/deploy/streamlit-community-cloud
