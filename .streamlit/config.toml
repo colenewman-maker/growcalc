@@ -3,3 +3,13 @@ gatherUsageStats = false
 
 [server]
 headless = true
+
+[theme]
+primaryColor = "#4F8A63"
+backgroundColor = "#FAFBF8"
+secondaryBackgroundColor = "#F1F5EF"
+textColor = "#1E2922"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#F1F5EF"
